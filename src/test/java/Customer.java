@@ -78,4 +78,7 @@ public class Customer {
 	public void setConfirmPassword(String confirmPassword) {
 		this.confirmPassword = confirmPassword;
 	}
+	public void setup(){
+		
+	}
 }
